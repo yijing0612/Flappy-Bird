@@ -1,5 +1,4 @@
 #Reference: https://github.com/sourabhv/FlapPyBird/blob/master/flappy.py
-#Reference: https://www.elecrow.com/blog/how-to-program-python-game-flappy-bird-on-crowpi.html
 
 import pygame
 from pygame.locals import *
