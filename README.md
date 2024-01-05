@@ -1,4 +1,7 @@
 # Undergraduate-Y1S1-FlappyBird
+
+This is a project developed in undergraduate Year 1 - Semester 1.
+
 FlappyBird
 A side-scroller game where the player controls a bird, attempting to fly between upper pipes and lower pipes without hitting them.
 
