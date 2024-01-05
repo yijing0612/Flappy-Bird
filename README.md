@@ -2,7 +2,7 @@
 
 This is a project developed in undergraduate Year 1 - Semester 1.
 
-FlappyBird
+FlappyBird<br>
 A side-scroller game where the player controls a bird, attempting to fly between upper pipes and lower pipes without hitting them.
 
 Requirements
